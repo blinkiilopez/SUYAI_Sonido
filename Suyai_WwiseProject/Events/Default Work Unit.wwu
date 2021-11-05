@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{266E24D4-1FA7-455B-B0D3-D630CE04E773}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{266E24D4-1FA7-455B-B0D3-D630CE04E773}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Enemigos" ID="{D569E942-E9D4-4E96-A35B-35C4B31D971C}" ShortID="841360220">
+					<ChildrenList>
+						<Event Name="Enemigo_Aereo_Ataca" ID="{E68FBC3F-5672-4207-945C-D7D339F5855D}">
+							<ChildrenList>
+								<Action Name="" ID="{6489250F-B4D1-4F89-B25D-2C3EEDF61DCE}" ShortID="309982238"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Paso" ID="{C6552287-2AFF-466F-9062-E010859E83D4}">
+							<ChildrenList>
+								<Action Name="" ID="{4A72CD4C-F0A7-42C9-8F4B-68F56108AFB7}" ShortID="498550482"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Aereo_Muere" ID="{093494EC-92A5-4CC6-BC7E-1C99C62438B2}">
+							<ChildrenList>
+								<Action Name="" ID="{6268DCC4-7D83-4D3B-9A4A-9B3C5539F21A}" ShortID="941532427"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Dispara" ID="{A1EFAE51-9FB8-4C24-9D6A-0704F2873B5E}">
+							<ChildrenList>
+								<Action Name="" ID="{6231D3F0-7085-47E5-907B-02E269487246}" ShortID="2791366"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Terrestre_Muere" ID="{E3683DD4-8713-4D09-B293-45E709656964}">
+							<ChildrenList>
+								<Action Name="" ID="{78D56742-9FBA-46CD-B07F-90F15D11CF62}" ShortID="400060745"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Terrestre_Ataca" ID="{D7395123-FFCB-4ABE-858D-D0A4472C6573}">
+							<ChildrenList>
+								<Action Name="" ID="{56D4C115-1AC8-4202-873A-5C9620BC3B28}" ShortID="400073566"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Vuela" ID="{AA95782F-0369-4AA4-88F4-5D6F94938FEB}">
+							<ChildrenList>
+								<Action Name="" ID="{C9765BB6-69F2-495C-BA03-9A14D8DFE749}" ShortID="824047396"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Enemigo_Disparador_Muere" ID="{241C5AA8-CB63-429B-8EFE-4FE0BC5C3707}">
+							<ChildrenList>
+								<Action Name="" ID="{2EFD520A-0319-4A01-8A48-324F2E7FC858}" ShortID="320793675"/>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Suyai" ID="{F2C7BC71-54E7-45E0-9D11-B92D61F84986}" ShortID="861317560">
+					<ChildrenList>
+						<Event Name="Suyai_Salto" ID="{71792888-C3DB-44CE-BEEF-0DC3ACC8DD60}">
+							<ChildrenList>
+								<Action Name="" ID="{5C99FEE5-F0E0-4DEB-A625-33E4965E27B4}" ShortID="181233360"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Puma_TrepaPared" ID="{9733C38E-10F2-4094-9F88-7227441D782F}">
+							<ChildrenList>
+								<Action Name="" ID="{E118EBD3-6455-47FA-930A-CA3DF1FA5FAA}" ShortID="190897335"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_Curacion" ID="{61A5D313-6AF9-4D26-BB4E-56A606CA051D}">
+							<ChildrenList>
+								<Action Name="" ID="{44ABED3C-1715-41E4-B71C-6705CE316C87}" ShortID="371098589"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_Ataca" ID="{D12A3F50-7D5F-46FF-9B22-1E9F5E03DCF0}">
+							<ChildrenList>
+								<Action Name="" ID="{447774AB-6D40-42CA-B44D-F37197ECBDAB}" ShortID="647826999"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_Paso" ID="{BA12B1B6-FE8E-43EA-893C-DADC5FC458CD}">
+							<ChildrenList>
+								<Action Name="" ID="{C31F282E-1B1C-4279-AE93-6126D65D59E6}" ShortID="1056278650"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Puma_ResbalaPared" ID="{059D1A69-B3EB-44A4-BC16-BB64BACD3A2C}">
+							<ChildrenList>
+								<Action Name="" ID="{475B2B84-E7C1-48E3-BDD9-C317B4F72BA2}" ShortID="54825528"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_CaePiso" ID="{DF898511-2EA3-4185-B5FA-BC63D8A5DA83}">
+							<ChildrenList>
+								<Action Name="" ID="{876BB410-F1C5-4EA2-AA1A-61EA8FB06765}" ShortID="442484367"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Puma_SaltoPared" ID="{9C4FD56E-955F-4B52-9BF3-2291B9313BA2}">
+							<ChildrenList>
+								<Action Name="" ID="{A5542105-D723-4DCB-B54A-2C61E10E584B}" ShortID="597094558"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_Golpeado" ID="{62A4A0AA-9163-4A60-9BC2-D317D114BC6A}">
+							<ChildrenList>
+								<Action Name="" ID="{1872DC9B-CD7A-4367-8A0D-7CC37210D0D3}" ShortID="397937259"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Suyai_Muere" ID="{0C2D53AD-87CD-454D-AB3A-4280A46A02DA}">
+							<ChildrenList>
+								<Action Name="" ID="{7D71C653-72AE-4B6A-A220-94B3E9EE3EBF}" ShortID="548378335"/>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Otros" ID="{ECD99F58-502D-4A4E-94F7-362425A053E6}" ShortID="455455123">
+					<ChildrenList>
+						<Event Name="Npc_Habla" ID="{E0CF48B4-BC11-4459-BE57-21DE379597CF}">
+							<ChildrenList>
+								<Action Name="" ID="{990CD390-7776-4113-934D-E3ED39E6B626}" ShortID="815542774"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_Ambiente" ID="{7C8E93F7-851B-4464-97BD-E7811FCA41C8}">
+							<ChildrenList>
+								<Action Name="" ID="{916AAB14-BAFD-42DC-B573-E274B1AAEBC1}" ShortID="301303600"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Menu" ID="{BF07D8EF-A004-4CB6-8CE2-93EC125515A1}">
+							<ChildrenList>
+								<Action Name="" ID="{FFE707BD-6813-4544-8991-863B3AB69979}" ShortID="541692952"/>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="UI" ID="{76C30F19-41D7-4CFD-9823-99EB073903F7}" ShortID="190575387">
+					<ChildrenList>
+						<Event Name="UI_AgarraAgradecimiento" ID="{9F1F1B7E-0E8A-4A1F-A94D-A135434C88DB}">
+							<ChildrenList>
+								<Action Name="" ID="{7C09B942-F72C-4577-965D-EAED5305A788}" ShortID="55729576"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_AgarraLlave" ID="{76E7353B-9516-436A-859E-155E58BEE988}">
+							<ChildrenList>
+								<Action Name="" ID="{36ABBBC2-FACE-480B-B5CE-E12E9F7FE0A0}" ShortID="622799206"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_CheckPoint" ID="{BAEB58BC-865E-4E8D-99F2-A65DE2AF4FCF}">
+							<ChildrenList>
+								<Action Name="" ID="{DFE1C52F-F0E7-4ECB-91B7-7F1128231E91}" ShortID="71179362"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_Boton_Seleccion" ID="{92583681-858E-45A4-A7E2-2299710E6EAA}">
+							<ChildrenList>
+								<Action Name="" ID="{8A1C4F7E-D188-41C2-9FDA-0A35289480AE}" ShortID="748411664"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_Boton_Hover" ID="{FEC076AB-F57C-4BE3-850D-D78BB4C3E20E}">
+							<ChildrenList>
+								<Action Name="" ID="{7B033BCD-D6B4-4F28-81FA-F0070DEF594A}" ShortID="855775520"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="UI_Pausa" ID="{A22FEB93-459E-42F0-8506-ABC9CEC9CF3A}">
+							<ChildrenList>
+								<Action Name="" ID="{044AC0FB-0767-4EF0-96D5-DF47C56855A6}" ShortID="158673878"/>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="Level" ID="{D14059AD-4ECE-4C67-AB7F-E18B56B84C60}" ShortID="761290043">
+					<ChildrenList>
+						<Event Name="Plataforma_Movil" ID="{61BB240D-424D-4694-9A5B-CF3B365FEDB4}">
+							<ChildrenList>
+								<Action Name="" ID="{6AD7F841-7F85-4468-8BF0-96AC80378EDD}" ShortID="394012810"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Plataforma_Gira" ID="{CEC59076-1939-4755-BCF0-D348D54BB5A9}">
+							<ChildrenList>
+								<Action Name="" ID="{26C2714F-7E28-481C-8311-B26C4873561E}" ShortID="137733616"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Plataforma_Destruye" ID="{B2390ECC-C032-4C21-97FE-EFD12F51093D}">
+							<ChildrenList>
+								<Action Name="" ID="{156D6CE5-8EC9-47E2-9E9A-2BF73E670FB1}" ShortID="1021710911"/>
+							</ChildrenList>
+						</Event>
+						<Event Name="Rocas_Caen" ID="{428E0D08-67CB-4676-AF10-29E027A721AF}">
+							<ChildrenList>
+								<Action Name="" ID="{8EBFEBE1-0840-4ACD-B638-04E04CABCFB2}" ShortID="859178095"/>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

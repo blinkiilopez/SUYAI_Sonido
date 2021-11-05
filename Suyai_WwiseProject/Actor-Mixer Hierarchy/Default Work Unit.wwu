@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{797F1091-52FB-48B5-8898-6E12C96B527D}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{797F1091-52FB-48B5-8898-6E12C96B527D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="All" ID="{5C59540C-A01B-4032-8D8F-E295941FAA6A}" ShortID="542000130">
+					<PropertyList>
+						<Property Name="Color" Type="int16" Value="10"/>
+						<Property Name="OverrideColor" Type="bool" Value="True"/>
+					</PropertyList>
+					<ChildrenList>
+						<Folder Name="Personajes" ID="{1645120F-9804-40FE-95B1-ECF514E8895B}" ShortID="609664589">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Folder Name="Suyai" ID="{836E2FAF-7DDD-4FA4-BA34-666599A6C95E}" ShortID="1028455732">
+									<PropertyList>
+										<Property Name="Color" Type="int16" Value="5"/>
+										<Property Name="OverrideColor" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<Folder Name="Movimiento" ID="{173B3D74-DDF3-4170-BE9A-B46AB478EE53}" ShortID="290157042">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="4"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+										<Folder Name="Puma" ID="{0FF11B59-E8DB-4CA8-9AD6-8D5B9FE32020}" ShortID="142088036">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="4"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+										<Folder Name="Pelea" ID="{9B0ACF0C-BF19-4310-834A-73F6B6CDA4BA}" ShortID="282619631">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="4"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+										<Folder Name="Pasivo" ID="{1591CD3B-1B6B-4D4E-B885-8CD73667F7F4}" ShortID="17606988">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="4"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+									</ChildrenList>
+								</Folder>
+								<Folder Name="Enemigos" ID="{DA8455A0-1CF1-4E10-BFCA-3AE95BFE4A0E}" ShortID="333718812">
+									<PropertyList>
+										<Property Name="Color" Type="int16" Value="9"/>
+										<Property Name="OverrideColor" Type="bool" Value="True"/>
+									</PropertyList>
+									<ChildrenList>
+										<Folder Name="Terrestres" ID="{CD243089-ED0C-4C74-AF94-1F73DA5B5788}" ShortID="255285003">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="7"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+										<Folder Name="Voladores" ID="{C2E9DFD7-C996-4970-A860-15CC2329CE8F}" ShortID="490233626">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="7"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+										<Folder Name="Disparadores" ID="{0C4218DE-E1E9-4E0F-AB12-4471C5F32DBE}" ShortID="854275452">
+											<PropertyList>
+												<Property Name="Color" Type="int16" Value="7"/>
+												<Property Name="OverrideColor" Type="bool" Value="True"/>
+											</PropertyList>
+										</Folder>
+									</ChildrenList>
+								</Folder>
+								<Folder Name="Npcs" ID="{ECEDA377-D3BB-44C9-8C17-041F3073C814}" ShortID="601171204">
+									<PropertyList>
+										<Property Name="Color" Type="int16" Value="2"/>
+										<Property Name="OverrideColor" Type="bool" Value="True"/>
+									</PropertyList>
+								</Folder>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="Ambiente" ID="{4632C86A-55EF-4846-B0D4-A2C4CA2A301C}" ShortID="219525310">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<Folder Name="Ambiente sonoro" ID="{0AC45A1C-0F91-4D0F-98D4-F0E35C56F94D}" ShortID="987692948"/>
+								<Folder Name="Elementos de nivel" ID="{24685711-FB97-411B-806D-B11004B209B5}" ShortID="773677946"/>
+							</ChildrenList>
+						</Folder>
+						<Folder Name="UI" ID="{424C8B2F-AB27-4332-8CD1-0CC6405337B9}" ShortID="515133422">
+							<PropertyList>
+								<Property Name="Color" Type="int16" Value="11"/>
+								<Property Name="OverrideColor" Type="bool" Value="True"/>
+							</PropertyList>
+						</Folder>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

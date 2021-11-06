@@ -178,6 +178,11 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="Prueba" ID="{B1261D21-C026-427E-9C91-16BB5432695A}" ShortID="596065551">
+					<ChildrenList>
+						<Event Name="Esto_es_prueba" ID="{33370C2E-D072-4D61-904C-368CA2E79FD8}"/>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
